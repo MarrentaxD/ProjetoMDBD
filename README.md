@@ -13,7 +13,7 @@
 
 ### :octocat: Alunos: Julia Souza, Murilo Martins, Rafael Sousa, Gabriel Lopes, Nawan Menandro, Hellen, Larissa T.
 
-![mdbd](https://user-images.githubusercontent.com/32688321/31413828-a1a59356-adf1-11e7-8add-cd37d4d5c681.PNG)
+![git](https://user-images.githubusercontent.com/32688321/32695063-c827b0d0-c738-11e7-9ebf-d006fe8027cd.PNG)
 
 
 
